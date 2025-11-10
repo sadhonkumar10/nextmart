@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "name": "Foster Farms Takeout Crispy Classic",
+    "category": "Baking material",
+    "brand": "Country Crock",
+    "price": 17.85,
+    "oldPrice": 19.80,
+    "discount": "10%",
+    "rating": 0,
+    "image": "path/to/foster-farms.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Organic Cage Grade A Large Eggs",
+    "category": "Baking material",
+    "brand": "Hambger Hel",
+    "price": 21.00,
+    "oldPrice": 24.00,
+    "discount": "13%",
+    "rating": 0,
+    "image": "path/to/organic-eggs.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Haagen Caramel Cone Ice Cream Boxed",
+    "category": "Baking material",
+    "brand": "Hambger Hel",
+    "price": 22.85,
+    "oldPrice": 24.80,
+    "discount": "8%",
+    "rating": 1,
+    "image": "path/to/haagen-icecream.jpg"
+  },
+  {
+    "id": 4,
+    "name": "All Natural Style Chicken Meatballs",
+    "category": "Fresh Seafood",
+    "brand": "Wonderful",
+    "price": 23.00,
+    "oldPrice": 122.00,
+    "discount": "66%",
+    "rating": 0,
+    "image": "path/to/chicken-meatballs.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Blue Almonds Lightly Salted Vegetables",
+    "category": "Fresh Fruit",
+    "brand": "Country Crock",
+    "price": 23.85,
+    "oldPrice": 25.80,
+    "discount": "8%",
+    "rating": 0,
+    "image": "path/to/blue-almonds.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gorton’s Beer Battered Fish Fillets",
+    "category": "Fresh Seafood",
+    "brand": "Hambger Hel",
+    "price": 23.85,
+    "oldPrice": 25.80,
+    "discount": "8%",
+    "rating": 0,
+    "image": "path/to/fish-fillets.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Seeds of Change Organic Red Rice",
+    "category": "Fresh Fruit",
+    "brand": "NestFood",
+    "price": 28.85,
+    "oldPrice": 32.80,
+    "discount": "13%",
+    "rating": 2,
+    "image": "path/to/red-rice.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Canada Dry Ginger Ale - 2 L Bottle",
+    "category": "Baking material",
+    "brand": "Hambger Hel",
+    "price": 32.85,
+    "oldPrice": 33.80,
+    "discount": "3%",
+    "rating": 0,
+    "image": "path/to/ginger-ale.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Encore Seafoods Stuffed Alaskan",
+    "category": "Clothing & beauty",
+    "brand": "Hambger Hel",
+    "price": 35.85,
+    "oldPrice": 37.80,
+    "discount": "6%",
+    "rating": 0,
+    "image": "path/to/alaskan.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Angie’s Sweet & Salty Kettle Corn",
+    "category": "Baking material",
+    "brand": "Country Crock",
+    "price": 48.85,
+    "oldPrice": 52.80,
+    "discount": "8%",
+    "rating": 1,
+    "image": "path/to/kettle-corn.jpg"
+  }
+]
