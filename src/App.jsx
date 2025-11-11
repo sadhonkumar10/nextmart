@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from "react";
-import Nav from "./Componants/Nav";
 import Hero from "./Componants/Hero";
 import MainCart from "./Componants/mainCart";
 import ProductsCart from "./Componants/ProductsCart";
 
+
 export default function App() {
   const [products, setProducts] = useState([]);
-  const [mainCart, setmaincart] = useState([]);
+  const [mainCart, setMainCart] = useState([]);
+  
 
   useEffect(() => {
     fetch("/product.json")
@@ -17,15 +18,16 @@ export default function App() {
   useEffect(() => {
     fetch("/maincart.json")
       .then((res) => res.json())
-      .then((data) => setmaincart(data));
+      .then((data) => setMainCart(data));
   }, []);
 
+   
   return (
     <div>
-      <Nav />
       <Hero />
       <MainCart mainCart={mainCart} />
       <ProductsCart products={products} />
+       
     </div>
   );
 }
