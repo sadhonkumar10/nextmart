@@ -35,7 +35,7 @@ export default function Nav() {
   return (
     <div className="flex justify-between w-11/12 mx-auto items-center pt-3 font-semibold">
       <div className="flex items-center">
-       <Link to='/'> <img src="/public/205.png" alt="" /></Link>
+       <Link to='/'> <img src="/205.png" alt="" /></Link>
         <p>Hot Deals</p>
       </div>
 
