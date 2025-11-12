@@ -36,17 +36,17 @@ export default function About() {
           </p>
           <div className="flex gap-5">
             <img
-              src="/public/imgabout/c360e0d261dddc7b7beff7d493aa47bac5b77484.png"
+              src="/imgabout/c360e0d261dddc7b7beff7d493aa47bac5b77484.png"
               alt=""
               className="w-[193px] h-[236px] "
             />
             <img
-              src="/public/imgabout/f8b0551749f0ed77ef6cc51a37e9e03515434576.png"
+              src="/imgabout/f8b0551749f0ed77ef6cc51a37e9e03515434576.png"
               alt=""
               className="w-[193px] h-[236px] "
             />
             <img
-              src="/public/imgabout/b26bb39d2b9070f4e580b14c5b98b794e753d7f4.png"
+              src="/imgabout/b26bb39d2b9070f4e580b14c5b98b794e753d7f4.png"
               alt=""
               className="w-[193px] h-[236px] "
             />
