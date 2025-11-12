@@ -11,7 +11,7 @@ export default function About() {
       <div className="grid grid-cols-2 w-9/12 mx-auto mt-15 ">
         <div className="pr-8">
           <img
-            src="/public/imgabout/5fb3a611e7fddfa36d124cb4c39db6b371966089.png"
+            src="/imgabout/5fb3a611e7fddfa36d124cb4c39db6b371966089.png"
             alt=""
             className="h-[736px] w-[646px] rounded-2xl"
           />
@@ -168,7 +168,7 @@ export default function About() {
       <div className="grid grid-cols-2 w-9/12 mx-auto">
         <div>
           <img
-            src="/public/imgabout/b2c379bf92038f828a2bf2ae708075d5f51de946.png"
+            src="/imgabout/b2c379bf92038f828a2bf2ae708075d5f51de946.png"
             alt=""
             className="pr-8"
           />
@@ -243,14 +243,14 @@ export default function About() {
         <div className="grid grid-cols-2 mr-4">
          <div className="pr-5">
            <img
-            src="/public/imgabout/4ed7432b829fdf9e093f0e99b4ae2277883a9017.png"
+            src="/imgabout/4ed7432b829fdf9e093f0e99b4ae2277883a9017.png"
             alt=""
             className="rounded-2xl"
           />
          </div>
          <div className="pr-5">
            <img
-            src="/public/imgabout/affd58bf571556910fe6ef9c4f85379e59ba267e.png"
+            src="/imgabout/affd58bf571556910fe6ef9c4f85379e59ba267e.png"
             alt=""
             className="rounded-2xl"
           />
@@ -261,7 +261,7 @@ export default function About() {
 
 
      <div className="w-9/12 mx-auto pt-20 pb-20">
-      <img src="/public/imgabout/Footer.png" alt="" />
+      <img src="/imgabout/Footer.png" alt="" />
      </div>
     </>
   );

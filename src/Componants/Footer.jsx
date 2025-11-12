@@ -8,7 +8,7 @@ export default function Footer() {
         {/* Logo & Info */}
         <div className="col-span-2">
           <div className="flex items-center gap-2 mb-3">
-            <img src="/public/205.png" alt="Nest Logo" className="" />
+            <img src="/205.png" alt="Nest Logo" className="" />
            
           </div>
           <p className="text-sm mb-3">Awesome grocery store website template</p>
