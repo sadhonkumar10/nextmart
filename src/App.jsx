@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import Hero from "./Componants/Hero";
-import MainCart from "./Componants/mainCart";
+import MainCart from "./Componants/MainCart";
 import ProductsCart from "./Componants/ProductsCart";
 import Banar from "./Componants/Banar";
 import Sarvices from "./Componants/Sarvices";
