@@ -128,5 +128,70 @@
     "batch": "new",
     "rating": 4.8,
     "img": "https://i.ibb.co.com/sdnLdsVZ/Encore-Seafoods-Stuffed-Alaskan.png"
+  },
+  {
+    "id": 11,
+    "productName": "Crispy Chicken Bites",
+    "brand": "Blue Diamond",
+    "stoke": 60,
+    "poweredBy": "Tyson Foods",
+    "oldPrice": 280,
+    "currentPrice": 240,
+    "offPercentage": 14.29,
+    "batch": "sale",
+    "rating": 4.5,
+    "img": "https://i.ibb.co.com/0VXPjvD6/Foster-Farms-Takeout-Crispy-Classic.png"
+  },
+  {
+    "id": 12,
+    "productName": "Beer Battered Fish Fillets",
+    "brand": "Angie’s",
+    "stoke": 50,
+    "poweredBy": "Kraft Heinz",
+    "oldPrice": 300,
+    "currentPrice": 260,
+    "offPercentage": 13.33,
+    "batch": "clearance",
+    "rating": 4.1,
+    "img": "https://i.ibb.co.com/sv1nZTy5/Gorton-s-Beer-Battered-Fish-Fillets.png"
+  },
+  {
+    "id": 13,
+    "productName": "Caramel Cone Ice Cream Box",
+    "brand": "Nestlé",
+    "stoke": 75,
+    "poweredBy": "Nestlé",
+    "oldPrice": 250,
+    "currentPrice": 220,
+    "offPercentage": 12.88,
+    "batch": "featured",
+    "rating": 4.4,
+    "img": "https://i.ibb.co.com/r2TFt13B/Haagen-Caramel-Cone-Ice-Cream-Boxed.png"
+  },
+  {
+    "id": 14,
+    "productName": "Organic Red Rice & Quinoa",
+    "brand": "Nestlé",
+    "stoke": 65,
+    "poweredBy": "Mars Food",
+    "oldPrice": 180,
+    "currentPrice": 150,
+    "offPercentage": 16.67,
+    "batch": "new",
+    "rating": 4.6,
+    "img": "https://i.ibb.co.com/pB2kS4C1/Seeds-of-Change-Organic-Red-Rice.png"
+  },
+  {
+    "id": 15,
+    "productName": "All Natural Chicken Meatballs",
+    "brand": "Angie’s",
+    "stoke": 90,
+    "poweredBy": "Hormel Foods",
+    "oldPrice": 270,
+    "currentPrice": 230,
+    "offPercentage": 14.81,
+    "batch": "sale",
+    "rating": 4.7,
+    "img": "https://i.ibb.co.com/nsVpDFzR/Vanilla-Greek.png"
   }
 ]

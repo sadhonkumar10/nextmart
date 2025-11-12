@@ -19,7 +19,7 @@ export default function Nav() {
 
       <Link to="/Megemanu">
         {" "}
-        <li>MegaMune</li>
+        <li>Mega Menu </li>
       </Link>
       <Link to="/blogs">
         {" "}

@@ -1,79 +1,72 @@
 [
   {
     "id": 1,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-    "item":"11"
+    "name": "Cake & Milk",
+
+    "image": "./img/291.png",
+    "item": "11 items"
   },
   {
     "id": 2,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "name": "Oganic Kiwi",
+
+    "image": "./img/289.png",
+    "item": "7 items"
   },
   {
-     "id": 3,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "id": 3,
+    "name": "Peach",
+
+    "image": "./img/Figure.png",
+    "item": "9 items"
   },
   {
     "id": 4,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "name": "Read Apple",
+
+    "image": "./img/Figure (1).png",
+    "item": "10 items"
   },
   {
     "id": 5,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "name": "Snacks",
+
+    "image": "./img/283.png",
+    "item": "5 items"
   },
   {
     "id": 6,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "name": "Vegetables",
+
+    "image": "./img/Figure (2).png",
+    "item": "4 items"
   },
   {
-     "id": 7,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "id": 7,
+    "name": "Strawberry",
+
+    "image": "./img/Figure (3).png",
+    "item": "11 items"
   },
   {
-     "id": 8,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "id": 8,
+    "name": "Black plum",
+
+    "image": "./img/Figure (4).png",
+    "item": "10 items"
   },
   {
     "id": 9,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "name": "Custard apple",
+
+    "image": "./img/Figure (5).png",
+    "item": "8 items"
   },
   {
-     "id": 10,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
-  },
-   {
-     "id": 11,
-    "name": "Foster Farms Takeout Crispy Classic",
-    
-    "image": "path/to/foster-farms.jpg",
-     "item":"11"
+    "id": 10,
+    "name": "Coffe & Tea",
+
+    "image": "./img/Figure (6).png",
+    "item": "6 items"
   }
 ]

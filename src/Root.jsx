@@ -1,14 +1,16 @@
-import React from 'react'
+import React from "react";
 
-import { Outlet } from 'react-router'
-import Nav from './Componants/Nav'
+import { Outlet } from "react-router";
+import Nav from "./Componants/Nav";
+import Footer from "./Componants/Footer";
 
 export default function Root() {
   return (
     <div>
-      <Nav/>
+      <Nav />
 
       <Outlet></Outlet>
+      <Footer />
     </div>
-  )
+  );
 }

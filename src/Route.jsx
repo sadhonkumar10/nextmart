@@ -27,10 +27,14 @@ const router= createBrowserRouter([
             },
              {
                 path:'/Megemanu',
+                loader:()=>fetch('/megamenu.json'),
                 element:<MegaMune/>
             },
              {
                 path:'/blogs',
+                loader: ()=>fetch("/blogs.json"),
+                
+                
                 element:<Blogs/>,
                
             },
